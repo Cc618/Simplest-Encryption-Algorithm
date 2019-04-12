@@ -1,5 +1,5 @@
 # Simplest-Encryption-Algorithm
-A simple encryption algorithm which check whether the password is correct.
+A simple encryption algorithm which checks whether the password is correct.
 
 ## Preview
 Here is a small example. For the good password:
